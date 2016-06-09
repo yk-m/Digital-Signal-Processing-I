@@ -1,0 +1,7 @@
+/Users/yuka/GoogleDrive/School/Subjects/Digital_Signal_Processing_I/7/Program/dsp1-7.c:170:35: error: use of undeclared identifier 'xn'
+        printComplexToFile( "IFFT2.txt", xn, dim );
+                                         ^
+/Users/yuka/GoogleDrive/School/Subjects/Digital_Signal_Processing_I/7/Program/dsp1-7.c:170:39: error: use of undeclared identifier 'dim'
+        printComplexToFile( "IFFT2.txt", xn, dim );
+                                             ^
+2 errors generated.
